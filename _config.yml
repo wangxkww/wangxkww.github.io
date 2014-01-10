@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 谷哥的小站
+title : 谷歌寂寞的小站
 tagline: 程序员 屌丝
 author :
-  name : 谷哥
+  name : 谷歌
   email : wangxkww@163.com
   github : wangxkww.github.io
   twitter : null
